@@ -20,7 +20,7 @@ import {About, ContactSection, ContactType, Hero, HomepageMeta, SkillGroup, Soci
  */
 export const homePageMeta: HomepageMeta = {
   title: 'Jeno Manivcsuk',
-  description: "Jeno's Personal CV website",
+  description: "Jeno's Story",
 };
 
 /**
