@@ -30,6 +30,7 @@ interface HeroActionItem {
   href: string;
   text: string;
   primary?: boolean;
+  newPage?: boolean;
   Icon?: ForwardRefExoticComponent<Omit<SVGProps<SVGSVGElement>, 'ref'>>;
 }
 
