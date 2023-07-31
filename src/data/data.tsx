@@ -216,7 +216,7 @@ export const education: TimelineItem[] = [
 
 export const experience: TimelineItem[] = [
   {
-    date: 'July 2023 - Present',
+    date: 'June 2023 - Present',
     location: 'Bucher Municipal',
     title: 'Junior Software Engineer',
     content: (
@@ -226,7 +226,10 @@ export const experience: TimelineItem[] = [
           • Collaborated in a team to develop software solutions optimizing vehicle functionality and operational
           efficiency.
         </li>
-        <li>• Specialized in full-stack development using Java, C#, and Python.</li>
+        <li>
+          • Specialized in full-stack development using Python and a highly technical languages called JetSymTX and
+          JetViewSoft.
+        </li>
         <li>• Designed intuitive user interfaces, server-side functions, and robust databases.</li>
         <li>• Adhered to agile methodologies for rapid response to changes and continuous feature delivery.</li>
         <li>• Conducted comprehensive testing to ensure software reliability and performance.</li>
